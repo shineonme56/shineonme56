@@ -10,7 +10,7 @@
 <a href="" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/></a>
 
 
-### Machine Learning / Deep Learning Libraries
+### Machine Learning / Deep Learning
 <a href="" target="_blank"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch%20-%23EE4C2C.svg?&style=flat-square&logo=Pytorch&logoColor=white" /></a>
 
 <a href="" target="_blank"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn%20-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" /></a>
