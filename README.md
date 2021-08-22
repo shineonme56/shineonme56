@@ -16,3 +16,8 @@
 <a href="" target="_blank"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn%20-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?&style=flat-square&logo=Numpy&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /></a>
+
+
+### Tools
+<a href="" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%23000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" /></a>
