@@ -8,8 +8,8 @@
 ### Programming Languages
 <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Perl" src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=Perl"/></a>
-<a href="" target="_blank"><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?&style=flat-square&logo=R&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/></a>
+
 
 ### Machine Learning / Deep Learning
 <a href="" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" /></a>
